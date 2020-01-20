@@ -1,0 +1,18 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: female_character.png (1024 x 1024)
+# $TexturePacker:SmartUpdate:6c4c865dd6db2dee9b41b036bbcfac24:7ee91dec1034128af5e1c9eeb4e60b15:9f8a2d62ece71ab723cc565ef033e77e$
+#
+
+_0000__0007_female0001;535;280;249;131;0.5;0.5
+_0001__0006_female0002;807;447;181;249;0.5;0.5
+_0002__0005_female0003;2;94;262;432;0.5;0.5
+_0003__0004_female0004;266;108;267;418;0.5;0.5
+_0004__0003_female0005;546;413;259;283;0.5;0.5
+_0005__0002_female0006;546;698;336;163;0.5;0.5
+_0006__0001_female0007;546;863;381;159;0.5;0.5
+_0007__0000_female0008;2;528;542;494;0.5;0.5

@@ -1,0 +1,60 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: monster_character.png (2048 x 2048)
+# $TexturePacker:SmartUpdate:ce3e50dace93876d653e2b1c90439ca3:02837d172d08425a13f87c4b18d47491:3e4f879866bc2cf6788d640059b1eed7$
+#
+
+alien_spaceship;1168;1458;351;307;0.5;0.5
+beam;920;1149;238;361;0.5;0.5
+black_blur_orb;1753;148;163;168;0.5;0.5
+blue_monster_body;2;13;156;133;0.5;0.5
+bomb_body;1619;1019;257;224;0.5;0.5
+bomb_fire_01;1965;310;62;58;0.5;0.5
+bomb_fire_02;1965;370;70;64;0.5;0.5
+bomb_mouth;1160;1033;257;137;0.5;0.5
+bomb_wire;527;1262;75;69;0.5;0.5
+boss_eye_01;1965;436;70;73;0.5;0.5
+boss_eye_02;527;1417;94;100;0.5;0.5
+boss_eye_03;160;17;122;129;0.5;0.5
+boss_eye_04;527;1333;77;82;0.5;0.5
+boss_eye_05;1521;1401;96;102;0.5;0.5
+boss_eye_06;1445;1051;165;175;0.5;0.5
+boss_eye_bag;1168;1767;464;279;0.5;0.5
+boss_eye_close;623;1323;295;187;0.5;0.5
+boss_lower_limb;1878;897;167;161;0.5;0.5
+boss_monster_body;2;1519;620;527;0.5;0.5
+boss_monster_body_mouth;1619;1245;335;206;0.5;0.5
+boss_monster_body_mouth_patch;1634;1810;406;236;0.5;0.5
+boss_upper_limb;897;922;234;225;0.5;0.5
+circle_black;1577;602;212;212;0.5;0.5
+circle_white;1791;511;212;211;0.5;0.5
+combo_0;1956;1341;89;110;0.5;0.5
+combo_B;1956;1222;84;117;0.5;0.5
+combo_BG;2;1298;523;219;0.5;0.5
+combo_C;1918;3;113;169;0.5;0.5
+combo_M;1521;1656;110;109;0.5;0.5
+combo_O2;398;1125;113;171;0.5;0.5
+defeat_alien_monster_01;1160;1172;283;284;0.5;0.5
+defeat_alien_monster_02;604;1051;291;270;0.5;0.5
+defeat_blue_monster_01;1845;724;188;171;0.5;0.5
+defeat_blue_monster_02;1878;1060;168;160;0.5;0.5
+defeat_frog_monster_01;1445;1228;172;171;0.5;0.5
+defeat_frog_monster_02;1577;295;174;121;0.5;0.5
+defeat_yellow_monster_01;1612;816;231;201;0.5;0.5
+defeat_yellow_monster_02;1419;883;191;166;0.5;0.5
+frog_01;1577;418;202;182;0.5;0.5
+frog_02;1133;836;222;195;0.5;0.5
+light;1357;414;218;467;0.5;0.4828693790149893
+orb_01;624;1512;542;534;0.5;0.5
+orb_02;1634;1453;354;355;0.5;0.5
+wing_01;398;1060;160;63;0.5;0.5
+wing_02;284;19;112;127;0.5;0.5
+wing_03;1918;174;125;134;0.5;0.5
+wing_04;1521;1505;101;149;0.5;0.5
+yellow_monster_arm;1990;1678;42;70;0.5;0.5
+yellow_monster_body;1781;318;182;191;0.5;0.5
+yellow_monster_feet;1990;1750;47;58;0.5;0.5

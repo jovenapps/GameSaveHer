@@ -1,0 +1,30 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/Game/Resources/monster_prefab/hd/BG_01.tpsheet
+- Assets/Game/Resources/monster_prefab/hd/BG_02.tpsheet
+- Assets/Game/Resources/monster_prefab/hd/female_character.tpsheet
+- Assets/Game/Resources/monster_prefab/hd/jet_buster.tpsheet
+- Assets/Game/Resources/monster_prefab/hd/monster_character.tpsheet
+- Assets/Game/Resources/monster_prefab/hd/vfx_01.tpsheet
+- Assets/Game/Resources/monster_prefab/hd/vfx_02.tpsheet
+textureFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/Game/Resources/monster_prefab/hd/BG_01.png
+- Assets/Game/Resources/monster_prefab/hd/BG_02.png
+- Assets/Game/Resources/monster_prefab/hd/female_character.png
+- Assets/Game/Resources/monster_prefab/hd/jet_buster.png
+- Assets/Game/Resources/monster_prefab/hd/monster_character.png
+- Assets/Game/Resources/monster_prefab/hd/vfx_01.png
+- Assets/Game/Resources/monster_prefab/hd/vfx_02.png
+normalmapFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+enableDebugOutput: 0

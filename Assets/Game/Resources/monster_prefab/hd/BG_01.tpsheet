@@ -1,0 +1,29 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: BG_01.png (2048 x 2048)
+# $TexturePacker:SmartUpdate:5136faefe996fb451737095e4c8594ee:93719dc2417add3ea9f819c8e4ab1826:b0de6e0b12ae62113d3d5835e4d8e8d8$
+#
+
+bg_asset_0000_BG0023;2;79;261;93;0.5;0.5
+bg_asset_0003_BG0020;619;1171;727;419;0.5;0.5
+bg_asset_0004_BG0019;619;1592;843;454;0.5;0.5
+bg_asset_0007_BG0016;1682;874;222;200;0.5;0.5
+bg_asset_0008_BG0015;1464;1523;565;523;0.5;0.5
+bg_asset_0009_BG0014;599;93;589;539;0.5;0.5
+bg_asset_0010_BG0013;2;723;595;573;0.5;0.5
+bg_asset_0011_BG0012;1682;701;225;171;0.5;0.5
+bg_asset_0012_BG0011;1579;443;436;196;0.5;0.5
+bg_asset_0013_BG0010;1195;641;485;433;0.5;0.5
+bg_asset_0014_BG0009;1190;144;387;488;0.5;0.5
+bg_asset_0015_BG0008;1348;1076;554;445;0.5;0.5
+bg_asset_0016_BG0007;599;634;594;535;0.5;0.5
+bg_asset_0017_BG0006;2;174;595;547;0.5;0.5
+bg_asset_0018_BG0005;2;1298;615;748;0.5;0.5
+bg_asset_0019_BG0004;1682;701;225;171;0.5;0.5
+bg_asset_0020_BG0003;1579;443;436;196;0.5;0.5
+bg_asset_0021_BG0002;1195;641;485;433;0.5;0.5
+bg_asset_0022_BG0001;1190;144;387;488;0.5;0.5
